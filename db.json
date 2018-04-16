@@ -40,70 +40,70 @@
       "products": [
         {
           "name": "Имбирь",
-          "image": "",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll1.png",
           "weight": "1шт – 65г",
           "price": 100,
           "consistancy": "Лосось, Огурцы, Сыр Сливочный, Кунжут, Унаги соус"
         },
         {
           "name": "Икра красная",
-          "image": "",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll2.png",
           "weight": "1шт – 95г",
           "price": 350,
           "consistancy": "Лосось, Огурцы, Икра Масаго, Сыр Сливочный, Кунжут, Унаги соус"
         },
         {
           "name": "Икровый рулет",
-          "image": "",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll3.png",
           "weight": "1шт – 45г",
           "price": 290,
           "consistancy": "Лосось, Огурцы, Икра Масаго, Унаги соус"
         },
         {
           "name": "Белый дракон",
-          "image": "",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll4.png",
           "weight": "1шт – 15г",
           "price": 1000,
           "consistancy": "Лосось, Огурцы, Икра Масаго, Кунжут, Унаги соус"
         },
         {
           "name": "Броненосец Посемгин Анунаки",
-          "image": "",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll5.png",
           "weight": "1шт – 25г",
           "price": 130,
           "consistancy": "Лосось, Огурцы, Икра Масаго, Сыр Сливочный, Кунжут"
         },
         {
           "name": "Оуки Аки",
-          "image": "",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll6.png",
           "weight": "1шт – 145г",
           "price": 430,
           "consistancy": "Лосось, Огурцы, Икра Масаго, Сыр Сливочный, Кунжут, Унаги соус"
         },
         {
           "name": "Имбирь",
-          "image": "",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll7.png",
           "weight": "1шт – 45г",
           "price": 150,
           "consistancy": "Лосось, Огурцы, Икра Масаго"
         },
         {
           "name": "Икра крассная",
-          "image": "",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll8.png",
           "weight": "1шт – 435г",
           "price": 250,
           "consistancy": "Лосось, Огурцы, Икра Масаго, Сыр Сливочный, Кунжут, Унаги соус"
         },
         {
           "name": "Броненосец Посемгин Анунаки",
-          "image": "",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll9.png",
           "weight": "1шт – 25г",
           "price": 130,
           "consistancy": "Лосось, Огурцы, Икра Масаго, Сыр Сливочный, Кунжут"
         },
         {
           "name": "Белый дракон",
-          "image": "",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll10.png",
           "weight": "1шт – 25г",
           "price": 160,
           "consistancy": "Лосось, Огурцы, Икра Масаго, Сыр Сливочный"
