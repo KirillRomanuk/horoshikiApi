@@ -34,6 +34,28 @@
     }
   ],
 
+  "commonData": {
+    "phone" : "88009379992",
+    "socials" : [
+      {
+        "iconName": "vk",
+        "link": "http://vk.com/"
+      },
+      {
+        "iconName": "fb",
+        "link": "http://facebook.com/"
+      },
+      {
+        "iconName": "od",
+        "link": "http://ok.ru/"
+      },
+      {
+        "iconName": "inst",
+        "link": "http://instagram.com/"
+      }
+    ]
+  },
+
   "categories": [
     {
       "name": "Фирменные роллы",
