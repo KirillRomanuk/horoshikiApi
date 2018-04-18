@@ -72,7 +72,7 @@
     {
       "id": 21145,
       "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/offer3.png",
-      "name": "Новая коллекция роллов с лососем",
+      "name": "Новая коллекция роллов",
       "description": "Попробуйте и оцените наши новые роллы с лососем от шефа!"
     }
   ],
@@ -122,34 +122,146 @@
           "weight": "1шт – 145г",
           "price": 430,
           "consistancy": "Лосось, Огурцы, Икра Масаго, Сыр Сливочный, Кунжут, Унаги соус"
-        },
+        }
+      ]
+    },{
+      "name": "Роллы",
+      "products": [
         {
           "name": "Имбирь",
-          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll7.png",
-          "weight": "1шт – 45г",
-          "price": 150,
-          "consistancy": "Лосось, Огурцы, Икра Масаго"
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll11.png",
+          "weight": "1шт – 65г",
+          "price": 105,
+          "consistancy": "Лосось, Огурцы, Сыр Сливочный, Кунжут, Унаги соус"
         },
         {
-          "name": "Икра крассная",
-          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll8.png",
-          "weight": "1шт – 435г",
-          "price": 250,
-          "consistancy": "Лосось, Огурцы, Икра Масаго, Сыр Сливочный, Кунжут, Унаги соус"
+          "name": "Икра красная",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll12.png",
+          "weight": "1шт – 65г",
+          "price": 100,
+          "consistancy": "Лосось, Огурцы, Сыр Сливочный, Кунжут, Унаги соус"
         },
         {
-          "name": "Броненосец Посемгин Анунаки",
-          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll9.png",
-          "weight": "1шт – 25г",
-          "price": 130,
-          "consistancy": "Лосось, Огурцы, Икра Масаго, Сыр Сливочный, Кунжут"
+          "name": "Филадельфия",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll13.png",
+          "weight": "1шт – 65г",
+          "price": 1040,
+          "consistancy": "Лосось, Огурцы, Сыр Сливочный, Кунжут, Унаги соус"
+        },
+        {
+          "name": "Щупальца осьминога",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll14.png",
+          "weight": "1шт – 65г",
+          "price": 1200,
+          "consistancy": "Лосось, Огурцы, Сыр Сливочный, Кунжут, Унаги соус"
+        },
+        {
+          "name": "Икровый рулет",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll15.png",
+          "weight": "1шт – 65г",
+          "price": 100,
+          "consistancy": "Лосось, Огурцы, Сыр Сливочный, Кунжут, Унаги соус"
         },
         {
           "name": "Белый дракон",
-          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll10.png",
-          "weight": "1шт – 25г",
-          "price": 160,
-          "consistancy": "Лосось, Огурцы, Икра Масаго, Сыр Сливочный"
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/roll16.png",
+          "weight": "1шт – 65г",
+          "price": 150,
+          "consistancy": "Лосось, Огурцы, Сыр Сливочный, Кунжут, Унаги соус"
+        }
+      ]
+    },
+    {
+      "name": "Сеты",
+      "products": [
+        {
+          "name": "Икровый сет",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/set1.png",
+          "weight": "1шт – 65г",
+          "price": 1500,
+          "consistancy": "Лосось, Огурцы, Сыр Сливочный, Кунжут, Унаги соус"
+        },
+        {
+          "name": "Сет дракон",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/set2.png",
+          "weight": "1шт – 65г",
+          "price": 120,
+          "consistancy": "Лосось, Огурцы, Сыр Сливочный, Кунжут, Унаги соус"
+        },
+        {
+          "name": "Имбирый пирог",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/set3.png",
+          "weight": "1шт – 65г",
+          "price": 100,
+          "consistancy": "Лосось, Огурцы, Сыр Сливочный, Кунжут, Унаги соус"
+        },
+        {
+          "name": "Рыба с мясом",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/set4.png",
+          "weight": "1шт – 65г",
+          "price": 140,
+          "consistancy": "Лосось, Огурцы, Сыр Сливочный, Кунжут, Унаги соус"
+        },
+        {
+          "name": "Рыбный пирог",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/set5.png",
+          "weight": "1шт – 65г",
+          "price": 150,
+          "consistancy": "Лосось, Огурцы, Сыр Сливочный, Кунжут, Унаги соус"
+        },
+        {
+          "name": "Закуска к пиву",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/set6.png",
+          "weight": "1шт – 65г",
+          "price": 1000,
+          "consistancy": "Лосось, Огурцы, Сыр Сливочный, Кунжут, Унаги соус"
+        }
+
+      ]
+    },{
+      "name": "Напитки и десерты",
+      "products": [
+        {
+          "name": "Пироженко",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/desert2.png",
+          "weight": "1шт – 65г",
+          "price": 120,
+          "consistancy": "Лосось, Огурцы, Сыр Сливочный, Кунжут, Унаги соус"
+        },
+        {
+          "name": "Мороженко",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/desert3.png",
+          "weight": "1шт – 65г",
+          "price": 100,
+          "consistancy": "Лосось, Огурцы, Сыр Сливочный, Кунжут, Унаги соус"
+        },
+        {
+          "name": "Салатик",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/desert1.png",
+          "weight": "1шт – 65г",
+          "price": 100,
+          "consistancy": "Лосось, Огурцы, Сыр Сливочный, Кунжут, Унаги соус"
+        },
+        {
+          "name": "Чаек",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/desert2.png",
+          "weight": "1шт – 65г",
+          "price": 10,
+          "consistancy": "Лосось, Огурцы, Сыр Сливочный, Кунжут, Унаги соус"
+        },
+        {
+          "name": "Кофеек",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/desert3.png",
+          "weight": "1шт – 65г",
+          "price": 50,
+          "consistancy": "Лосось, Огурцы, Сыр Сливочный, Кунжут, Унаги соус"
+        },
+        {
+          "name": "Пирог",
+          "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/offer2.png",
+          "weight": "1шт – 65г",
+          "price": 500,
+          "consistancy": "Лосось, Огурцы, Сыр Сливочный, Кунжут, Унаги соус"
         }
       ]
     }
