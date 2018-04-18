@@ -56,6 +56,27 @@
     ]
   },
 
+  "offers": [
+    {
+      "id": 12345,
+      "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/offer1.png",
+      "name": "Дегустация морковки",
+      "description": "Попробуйте и оцените наши новые роллы с креветками!"
+    },
+    {
+      "id": 21345,
+      "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/offer2.png",
+      "name": "Дегустация линейки десертов",
+      "description": "Попробуйте и оцените наши уникальные десерты с карамелью!"
+    },
+    {
+      "id": 21145,
+      "image": "https://raw.githubusercontent.com/KirillRomanuk/horoshikiApi/master/images/offer3.png",
+      "name": "Новая коллекция роллов с лососем",
+      "description": "Попробуйте и оцените наши новые роллы с лососем от шефа!"
+    }
+  ],
+
   "categories": [
     {
       "name": "Фирменные роллы",
